@@ -66,6 +66,12 @@ guild    = msg.guild
         let embed8 = new Discord.RichEmbed()
             .setThumbnail("https://images.discordapp.net/avatars/562551251699630081/23f23de7b41aa0bb7fac1cb4edd5deed.png?size=512");
         channel.sendEmbed(embed8)
+    } if(member.id != client.user.id && cont.startsWith(config.prefix + "sub-github")) {
+        member.addRole('605480904676343808')
+        let embed9 = new Discord.RichEmbed()
+            .setColor(config.colors.blau)
+            .addField("Dir wurde nun Die Rolle **github** hinzugefügt!", `requested by ${member.displayName}`);
+        channel.sendEmbed(embed9)
     }
 
 })
