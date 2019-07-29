@@ -1,0 +1,16 @@
+{
+    "token": "<token>",
+    "owner": "<OwnerId>",
+    "prefix": "+",
+    "adminprefix": ".",
+
+    "activity": {
+        "streaming": false,
+        "streamgame": "auf Twitch",
+        "game": "nix | +help",
+        "url": "<TwitchURL>"
+    },
+    "colors": {
+        "blau": "#0022ff"
+    }
+}
