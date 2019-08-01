@@ -6,7 +6,7 @@ Dies ist der Code vom **ElvenBot**
 
 Um den Bot zu installieren musst du einfach den neuesten [Release](https://github.com/OrlandoXD/ElvenBot/releases) downloaden,
 um den Bot zu installieren brauchst du btw. noch [Node.js](https://nodejs.org/en/),
-wenn du Node.js Installiert hast dan Befolge nun folgende Schritte:
+wenn du Node.js Installiert hast dann befolge nun folgende Schritte:
 
 # Schritt 1
 - Extrahiere Den Ordner
